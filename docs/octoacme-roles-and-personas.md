@@ -245,7 +245,7 @@ Customer support and enablement representatives bring customer-impact insights i
 
 ## Role Interaction Matrix
 
-| Collaboration | Lifecycle stage | Expected outputs |
+| Collaboration | Lifecycle Stage | Expected Outputs |
 | --- | --- | --- |
 | Product Manager + Project Manager | Initiation, Planning, Release | Approved one-pager, shared priorities, stakeholder-ready status narrative |
 | Product Manager + Technical Lead | Initiation, Planning, Execution | Feasible solution options, clarified acceptance criteria, technical trade-offs |
@@ -274,7 +274,7 @@ Use the table below as a lightweight RACI-style reference when a decision affect
 | --- | --- | --- | --- | --- |
 | Prioritization and backlog ordering | Product Manager | Technical Lead, Engineering Manager | Project Manager, Customer Support / Enablement | Backlog notes or roadmap update |
 | Scope changes after planning | Product Manager | Project Manager, Technical Lead | Engineering Manager, stakeholders | Decision log with impact summary |
-| Release go / no-go | Project Manager | Technical Lead, QA / Testing | Product Manager, Customer Support / Enablement | Release checklist and status update |
+| Release go/no-go | Project Manager | Technical Lead, QA / Testing | Product Manager, Customer Support / Enablement | Release checklist and status update |
 | Incident communication | Project Manager | Engineering Manager, Technical Lead | Product Manager, Customer Support / Enablement, stakeholders | Incident channel update and follow-up summary |
 
 ---
