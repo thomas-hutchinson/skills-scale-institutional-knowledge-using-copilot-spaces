@@ -35,7 +35,8 @@ After each sprint, release, or milestone, OctoAcme conducts retrospectives (45�
 | [Risks and Communication](octoacme-risks-and-communication.md) | Risk register management, escalation paths, and communication cadence |
 | [Release and Deployment](octoacme-release-and-deployment.md) | Pre-release checklist, deployment process, and release notes template |
 | [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective format, action item tracking, and continuous improvement practices |
-| [Roles and Personas](octoacme-roles-and-personas.md) | Definitions and responsibilities for all project roles: Project Managers, Product Managers, Developers, and QA |
+| [Roles and Personas](octoacme-roles-and-personas.md) | Definitions and collaboration guidance for project, product, engineering, design, quality, security, and support roles |
+| [Role Handoff Checklist](octoacme-role-handoff-checklist.md) | Concise checklist and decision log template for lifecycle handoffs and accountability |
 
 ---
 
@@ -47,5 +48,6 @@ Use the guides below to jump directly to the documentation most relevant to your
 - **In the planning phase?** → [Project Planning](octoacme-project-planning.md) · [Risks and Communication](octoacme-risks-and-communication.md)
 - **Actively building and tracking work?** → [Execution and Tracking](octoacme-execution-and-tracking.md)
 - **Preparing for a release?** → [Release and Deployment](octoacme-release-and-deployment.md)
+- **Clarifying ownership or handoffs?** → [Roles and Personas](octoacme-roles-and-personas.md) · [Role Handoff Checklist](octoacme-role-handoff-checklist.md)
 - **Wrapping up a sprint or milestone?** → [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - **New to OctoAcme's processes?** → Start with the [Project Management Overview](octoacme-project-management-overview.md)
